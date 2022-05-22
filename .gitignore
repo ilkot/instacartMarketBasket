@@ -1,0 +1,7 @@
+
+data/orders.csv
+data/.DS_Store
+data/aisles.csv
+data/departments.csv
+data/order_products__prior.csv
+data/order_products__train.csv
